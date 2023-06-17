@@ -6,8 +6,6 @@ An addon to allow running the grott software directly on HA.
 
 This allow to process in local all the data from the growatt datalogger and don't depend on growatt server.
 
-This addon allow you to have all the entities automatically created.
-
 ## Installation
 
 1. If you don't have an MQTT broker yet; in Home Assistant go to **Settings → Add-ons → Add-on store** and install the **Mosquitto broker** addon.
